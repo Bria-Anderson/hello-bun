@@ -1,4 +1,5 @@
 # My Setup
+
 - OS: (Mac/Windows + version)
 - Shell: (Git Bash / zsh with oh-my-zsh)
 - Bun version: (from bun --version)
@@ -6,3 +7,7 @@
 - Mac only - Homebrew version: (from brew --version)
 - I was confused about the repository until I referred to it as a compass.
 - Yesterday I had a total of 6 commits.
+
+# Favorite Commands
+
+- cd, pwd, and ls are favorite commands
