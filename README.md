@@ -7,4 +7,4 @@
 
 # READ ME JOKE
 
-- What does a baby computer call his father? *Data*.
+- What does a baby comuter call his father? *Data*.
