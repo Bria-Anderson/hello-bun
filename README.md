@@ -1,8 +1,10 @@
 # READ ME
 
-- These are notes.
-- I used Boris the Professor and Notepad++ to learn it.
+1. These are notes.
+2. I used [**Boris the Professor**](https://boris-the-professor.replit.app/courses/level-2a/week-1) and **Notepad++** to learn it.
+
+---
 
 # READ ME JOKE
 
-- What does a baby computer call his father? Data.
+- What does a baby computer call his father? *Data*.
