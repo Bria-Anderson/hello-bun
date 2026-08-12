@@ -1,1 +1,1 @@
-My name is Bria. I like to code. I also like Boris the Professor.
+My name is Bria. I like to code. I also like Boris the Professor and the many lessons we learn in class.
