@@ -11,3 +11,7 @@
 # Favorite Commands
 
 - cd, pwd, and ls are favorite commands
+
+# Today's Date
+
+- 8/11/2026
